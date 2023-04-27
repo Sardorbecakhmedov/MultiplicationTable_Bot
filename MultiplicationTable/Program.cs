@@ -17,7 +17,7 @@ var userServices = new UserServices();
 var resultServices = new SaveResults();
 
 #region [ Telegram codlari ]
-const string TOKEN = "6293169973:AAHYQVPkDPFXc7eDvL3avx8JlZba92kXAQ4";
+const string TOKEN = "Token";
 
 var bot = new TelegramBotClient(TOKEN);
 
